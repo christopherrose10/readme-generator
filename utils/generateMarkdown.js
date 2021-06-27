@@ -62,7 +62,8 @@ const generateMarkdown = data => {
   ${data.tests}
 
   ## Questions
-  ${data.questions}
+  
+  If you have any questions about the application please feel free to reach out!
 
   [GitHub Profile](https://github.com/${data.github})
 
