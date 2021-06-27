@@ -30,6 +30,11 @@ const questions = [
         message: 'How do you install your project?'
     },
     {
+        type: 'input',
+        name: 'usage',
+        message: 'How is your project used?'
+    },
+    {
         type: 'list',
         name: 'license',
         message: 'What type of license do you want for your project?',
